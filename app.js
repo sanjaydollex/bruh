@@ -2,7 +2,7 @@ const parentElement = document.getElementById("parentElement");
 const showMassage = document.getElementById("showMassage");
 const changeColor = document.body.style;
 
-propose = () => {
+const friends = () => {
   parentElement.style.display = "none";
   showMessage.style.display = "block";
   changeColor.background =
